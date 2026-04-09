@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr"> 
+<head>
+ <title>Mon CV</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+      <div class="sidebar">
+         <div class="photo-box"> 
+      </div>
+
+   <div class="info">
+       <h1>MON CV</h1>
+       <P><strong>Nom: </strong> Votre Nom </P>
+       <P><strong>prénom: </strong> Votre Prénom </P>
+       <p><strong>Email:</strong>Email@gmail.com</p>
+       <p><strong>Téléphone:</strong>0700000000</p>
+   </div>
+   
+       <h2>Formartion</h2>
+       <ul>
+          <li> Licience en informatique</li>
+          <li> Baccalaureat sciences</li>
+       </ul>
+          <h2>Experience</h2>
+       <ul>
+          <li>Stage en entreprise (2025)</li>
+          <li>Projet universitaire</li>
+       </ul>
+          <h2> Competences</h2>
+       <ul>
+          <li>Html/Css</li>
+          <li>Python</li>
+          <li>Excel</li>
+       </ul>
+
+    </body>
+</body>
+</html>
+ <body>
+
+</body>
