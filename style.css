@@ -1,0 +1,39 @@
+body{
+    font-family: Arial;
+    background-color: #f4f4f4;
+}
+.container {    
+width: 60%;
+margin: auto;
+background: white;
+padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid lightblue;
+}
+
+p {
+    font-size: 14PX;
+}
+
+/*photo de profiel*/
+.photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solide #2c7da0;
+}
+
+/*Titre principal*/
+h1 {
+    color: #1d3557;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
